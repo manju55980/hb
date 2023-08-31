@@ -9,7 +9,7 @@ use App\Model\Entity\Operator;
 use App\Model\Entity\User;
 use App\View\AppView;
 
-$this->assign('title', __('Operator Info'));
+$this->assign('title', __('Operator  info 2'));
 ?>
 
 
